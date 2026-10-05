@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Test sửa trên local nhánh develop
+=======
+Test sửa trên Github
+>>>>>>> 939e8c7fd1115ef57fefa8054f74d2702c9f7a22
+
+Giu lai ca 2 
